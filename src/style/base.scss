@@ -1,0 +1,16 @@
+@import "./normalize.scss";
+@import "./container.scss";
+
+:root {
+    --clr-dark-gray: #33323d;
+    --clr-text-1: #fff;
+    --clr-text-2: #5fb4a2;
+    --Clr-paragraph: #141414;
+    --bg-darkGreen: #203a4c;
+    --border-Clr: #f5f5f5;
+    --main-transition: 0.3s;
+    --main-radius: 12px;
+    --main-padding-space: 80px;
+    --main-font: "Ibarra Real Nova";
+    --sec-font: "public-sans";
+}
