@@ -1,5 +1,5 @@
 <script setup>
-import Primarylink from "../components/Primarylink.vue";
+import Primarylink from "../components/PrimaryLink.vue";
 </script>
 <template>
     <main aria-label="Home page" role="main">

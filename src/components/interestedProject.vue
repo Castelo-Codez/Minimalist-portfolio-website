@@ -1,5 +1,5 @@
 <script setup>
-import Primarylink from "./Primarylink.vue";
+import Primarylink from "./PrimaryLink.vue";
 </script>
 <template>
     <section class="project-with-me" aria-label="interested sec">
